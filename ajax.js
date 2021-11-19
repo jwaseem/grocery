@@ -19,6 +19,7 @@ function load(){
             <th scope="col">Unit</th>
             <th scope="col">Department</th>
             <th scope="col">Notes</th>
+            <th scope="col">status</th>
           </tr>
           <tr>
             <td>${ab[0].slno}</td>
@@ -27,6 +28,7 @@ function load(){
             <td>${ab[0].unit}</td>
             <td>${ab[0].department}</td>
             <td>${ab[0].notes}</td>
+            <td><input type="checkbox"></td>
           </tr>
           <tr>
             <td>${ab[1].slno}</td>
@@ -35,6 +37,7 @@ function load(){
             <td>${ab[1].unit}</td>
             <td>${ab[1].department}</td>
             <td>${ab[1].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -44,6 +47,7 @@ function load(){
             <td>${ab[2].unit}</td>
             <td>${ab[2].department}</td>
             <td>${ab[2].notes}</td>
+            <td><input type="checkbox"></td>
           
           </tr>
           <tr>
@@ -53,6 +57,7 @@ function load(){
             <td>${ab[3].unit}</td>
             <td>${ab[3].department}</td>
             <td>${ab[3].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -62,6 +67,7 @@ function load(){
             <td>${ab[4].unit}</td>
             <td>${ab[4].department}</td>
             <td>${ab[4].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -71,6 +77,7 @@ function load(){
             <td>${ab[5].unit}</td>
             <td>${ab[5].department}</td>
             <td>${ab[5].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -80,6 +87,7 @@ function load(){
             <td>${ab[6].unit}</td>
             <td>${ab[6].department}</td>
             <td>${ab[6].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -89,6 +97,7 @@ function load(){
             <td>${ab[7].unit}</td>
             <td>${ab[7].department}</td>
             <td>${ab[7].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -98,6 +107,7 @@ function load(){
             <td>${ab[8].unit}</td>
             <td>${ab[8].department}</td>
             <td>${ab[8].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>
           <tr>
@@ -107,6 +117,7 @@ function load(){
             <td>${ab[9].unit}</td>
             <td>${ab[9].department}</td>
             <td>${ab[9].notes}</td>
+            <td><input type="checkbox"></td>
             
           </tr>`;
           
