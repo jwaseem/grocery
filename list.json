@@ -1,0 +1,84 @@
+{
+    "items" :[ 
+        {
+            "slno" : "1",
+            "name" : "rise",
+            "quantity" : "5",
+            "unit" : "kg",
+            "department" : "Cerials",
+            "notes" : "white"
+        },
+        {
+            "slno" : "2",
+            "name" : "wheat",
+            "quantity" : "2",
+            "unit" : "kg",
+            "department" : "Cerials",
+            "notes" : "...."
+        },
+        {
+            "slno" : "3",
+            "name" : "chilly powder",
+            "quantity" : "1",
+            "unit" : "kg",
+            "department" : "spices",
+            "notes" : "eastern"
+        },
+        {
+            "slno" : "4",
+            "name" : "coconut oil",
+            "quantity" : "1",
+            "unit" : "ltr",
+            "department" : "oil",
+            "notes" : "rolex"
+        },
+        {
+            "slno" : "5",
+            "name" : "tomato",
+            "quantity" : "1",
+            "unit" : "kg",
+            "department" : "vegitable",
+            "notes" : "fresh"
+        },
+        {
+            "slno" : "6",
+            "name" : "chilly",
+            "quantity" : ".5",
+            "unit" : "kg",
+            "department" : "vegitable",
+            "notes" : "fresh"
+        },
+        {
+            "slno" : "7",
+            "name" : "milk",
+            "quantity" : "1",
+            "unit" : "ltr",
+            "department" : "diary",
+            "notes" : "milma"
+        },
+        {
+            "slno" : "8",
+            "name" : "butter",
+            "quantity" : "250",
+            "unit" : "g",
+            "department" : "diary",
+            "notes" : "amul"
+        },
+        {
+            "slno" : "9",
+            "name" : "mango",
+            "quantity" : "1",
+            "unit" : "kg",
+            "department" : "Fruits",
+            "notes" : "fresh"
+        },
+        {
+            "slno" : "10",
+            "name" : "grapes",
+            "quantity" : "1",
+            "unit" : "kg",
+            "department" : "Fruits",
+            "notes" : "fresh"
+        }
+    ]
+}
